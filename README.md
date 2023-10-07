@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Rishi Kokil</h1>
-<h1 align="center">Computer Engineering Student at VESIT</h1> 
-<hr />
+<h1 align="center">Hi 👋, I'm Rishi Kokil<br />Computer Engineering Student at VESIT</h1>
 <br />
 
 <h2> Introduction </h2>
-<h3 align="center">An eager and passionate Computer Engineering Student who has interest Web Development Technologies.</h3>
+<h3 align="center">Detail-oriented Computer Engineering graduate from Vivekanand Education Society's Institute of Technology. Possessing a strong foundation in computer engineering and proficiency in a range of programming languages, including Java, C, and Python, and little experience with Dart and Flutter, along with expertise in web development technologies such as HTML, CSS, JavaScript, Bootstrap, Node JS, Express JS and Database languages Like MySQL. I am committed to applying my technical understanding and problem-solving skills to drive innovation and contribute to the world of Computer Technology</h3>
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **JavaScript , Express JS , Node JS**
+- 💬 Ask me about **JavaScript, Express JS, Node JS**
 
 - 📫 How to reach me **rishikokil@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing](https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing"> Resume Link </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" style = "p {display: flex; flex-wrap: wrap;} a {flex-basis: 10%;}" >
