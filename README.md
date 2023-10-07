@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing](https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left" style = "p {display: flex; flex-wrap: wrap;}" >
+<p align="left" style = "p {display: flex; flex-wrap: wrap;} a {flex-basis: 10%;}" >
 <a href="https://instagram.com/rishi______20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi______20" height="30" width="40" /></a>
 </p>
 
