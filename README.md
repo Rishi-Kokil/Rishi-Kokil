@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi Kokil</h1>
+<h1 align="center">Computer Engineering Student at VESIT</h1> 
+<hr />
+<br />
+
+<h2> Introduction </h2>
 <h3 align="center">An eager and passionate Computer Engineering Student who has interest Web Development Technologies.</h3>
 
 - 🌱 I’m currently learning **React JS**
