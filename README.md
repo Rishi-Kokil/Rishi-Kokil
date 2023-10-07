@@ -4,6 +4,7 @@
 <h2> Introduction </h2>
 <h3 align="left">Detail-oriented Computer Engineering graduate from Vivekanand Education Society's Institute of Technology. Possessing a strong foundation in computer engineering and proficiency in a range of programming languages, including Java, C, and Python, and little experience with Dart and Flutter, along with expertise in web development technologies such as HTML, CSS, JavaScript, Bootstrap, Node JS, Express JS and Database languages Like MySQL. I am committed to applying my technical understanding and problem-solving skills to drive innovation and contribute to the world of Computer Technology</h3>
 
+<h2>Know me</h2>
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **JavaScript, Express JS, Node JS**
