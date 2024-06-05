@@ -1,22 +1,81 @@
-<h1 align="center">Hi 👋, I'm Rishi Kokil<br />Computer Engineering Student at VESIT</h1>
-<br />
+<h1 align ="center" >Hi there, I'm Rishi Kokil</h1> 
+<h4 align="center">
+  <strong>Computer Engineering Student at VESIT | GPA: 9.72/10 (till sem V) 🎓</strong><br>
+  MERN Stack Developer | Fast Learner 🧠
+</h4>
 
-<h2> Introduction </h2>
-<p align="left"> Detail-oriented Computer Engineering graduate from Vivekanand Education Society's Institute of Technology. Possessing a strong foundation in computer engineering and proficiency in a range of programming languages, including Java, C, and Python, and little experience with Dart and Flutter, along with expertise in web development technologies such as HTML, CSS, JavaScript, Bootstrap, Node JS, Express JS and Database languages Like MySQL. I am committed to applying my technical understanding and problem-solving skills to drive innovation and contribute to the world of Computer Technology</p>
-
-<h2>Know me</h2>
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **JavaScript, Express JS, Node JS**
-
-- 📫 How to reach me **rishikokil@gmail.com**
-
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1AyBHK16Pjg3R8_inby_QeBdHNVCqwHMM/view?usp=sharing"> Resume Link </a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left" style = "p {display: grid; grid-template-column : 1fr 1fr 1fr 1fr 1fr 1fr; grid-template-rows : 1fr 1fr 1fr 1fr 1fr;}" >
-<a href="https://instagram.com/rishi______20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishi______20" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Rishi-Kokil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/rishi-kokil-vesit" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rishikokil@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style=""> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 About Me
+
+<p =>
+  I'm a detail-oriented Computer Engineering graduate from VESIT, with a strong foundation in programming languages like Java, C, and Python. My expertise extends to web development technologies such as React, Node.js, and Express.js. Also I have some experiance in React native, Flutter and Firebase. I'm passionate about applying my technical skills to drive innovation in the world of Computer Technology.
+</p>
+## 🎨 Featured Project: Cognitive Care
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+Cognitive Care is a groundbreaking MERN stack website that I developed to enable early Alzheimer's detection. This comprehensive platform offers:
+
+- 🧠 MRI data analysis for accurate diagnosis
+- 📝 MMSE tests for cognitive assessment
+- 🎮 Cognitive function improvement games
+- 💬 Supportive community forum
+
+🎉 **Special Mention**: My research paper on this project has been published! 📜🎓 <p align = "center" ><a href="https://alochana.org/wp-content/uploads/21-AJ2408.pdf">📃Research Paper Link</a></p>
+
+
+## 🔧 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+## 🌟 Achievements & Activities
+
+- 🎨 Senior Designer at Visual Arts Community
+- 🚀 Participated in hackathons: Syrus, Invictus, Flipkart Grid 5.0, SIH
+- 📚 Certifications: NVIDIA Deep Learning, Cisco Networking Basics, Udemy Web Dev Bootcamp
+
+## 🌈 Soft Skills
+
+- 👂 Active Listener
+- 🎯 Leadership
+- ⏰ Time Management
+- 🧘‍♂️ Stress Management
+
+## 🎓 Education
+
+- 🏫 VESIT - B.Tech in Computer Engineering (GPA: 9.72/10)
+- 🏫 DAV Public School - HSC (91.4%) & SSC (93.8%)
+
+## 🌺 Hobbies
+
+- ♟️ Playing Chess
+- 🏋️‍♂️ Gym
+
+Feel free to explore my projects and don't hesitate to reach out! Let's innovate together. 🚀
