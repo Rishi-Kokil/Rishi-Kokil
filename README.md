@@ -41,7 +41,7 @@ Cognitive Care is a groundbreaking MERN stack website that I developed to enable
 🎉 **Special Mention**: My research paper on this project has been published! 📜🎓 <p align = "center" ><a href="https://alochana.org/wp-content/uploads/21-AJ2408.pdf">📃Research Paper Link</a></p>
 
 
-## 🔧 Tech Stack
+## 🔧 Technologies 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
