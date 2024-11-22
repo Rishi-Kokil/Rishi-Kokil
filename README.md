@@ -21,6 +21,7 @@
 <p =>
   I'm a detail-oriented Computer Engineering graduate from VESIT, with a strong foundation in programming languages like Java, C, and Python. My expertise extends to web development technologies such as React, Node.js, and Express.js. Also I have some experiance in React native, Flutter and Firebase. I'm passionate about applying my technical skills to drive innovation in the world of Computer Technology.
 </p>
+
 ## 🎨 Featured Project: Cognitive Care
 
 <p align="center">
