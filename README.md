@@ -99,3 +99,15 @@ Cognitive Care is a groundbreaking MERN stack website that I developed to enable
 - 🏋️‍♂️ Gym  
 
 Feel free to explore my projects and don't hesitate to reach out! Let's innovate together. 🚀
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishi-Kokil&show_icons=true&locale=en" alt="Rishi's Statistics" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishi-Kokil&show_icons=true&locale=en&layout=compact" alt="Rishi's Language Statistics" />
+</p>
+
+
